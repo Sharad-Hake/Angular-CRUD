@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "Farm fresh",
+      "price": 23,
+      "comment": "asd",
+      "date": "2022-08-11T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Brokley",
+      "category": "Vagitables",
+      "freshness": "Freezed",
+      "price": 34,
+      "comment": "vbmn",
+      "date": "2022-08-09T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "banana",
+      "category": "Fruits",
+      "freshness": "Fresh",
+      "price": 20,
+      "comment": "asdb  zxcvbnm",
+      "date": "2022-08-11T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "bvbjmksdfgh",
+      "category": "Vagitables",
+      "freshness": "Farm fresh",
+      "price": 12345,
+      "comment": "test",
+      "date": "2022-09-07T18:30:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

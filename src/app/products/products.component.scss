@@ -1,0 +1,29 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+  table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  .btnClass{
+   float: right;
+   margin-top: 5px;
+  }
+  
+//   td, th {
+//     // width: 25%;
+//     margin: 100px ;
+//   }  
+.tip{
+  font-size: x-small;
+  color: red;
+  margin-top: 10px;
+}
